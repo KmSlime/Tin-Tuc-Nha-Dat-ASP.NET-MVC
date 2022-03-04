@@ -1,0 +1,254 @@
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csprojResolveAssemblyReference.cache
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.CoreCompileInputs.cache
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\ApplicationInsights.config
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll.config
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.pdb
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\EntityFramework.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\WebGrease.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\EntityFramework.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.pdb
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.xml
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.dll
+D:\FLANCER\C#\WEB\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.pdb
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csprojResolveAssemblyReference.cache
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.CoreCompileInputs.cache
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.pdb
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll.config
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.pdb
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\EntityFramework.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\WebGrease.dll
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\EntityFramework.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.pdb
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\FLANCER\C#\WEB\Template MVC\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll.config
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.pdb
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Bootstrap.Pagination.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\EntityFramework.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Net.Http.Formatting.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.WebHost.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\WebGrease.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Bootstrap.Pagination.pdb
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Bootstrap.Pagination.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\EntityFramework.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Net.Http.Formatting.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.WebHost.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.pdb
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.xml
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.CoreCompileInputs.cache
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.dll
+D:\FLANCER\C#\WEB\HOUSE\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.pdb
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll.config
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\WebsiteMVC.pdb
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Bootstrap.Pagination.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\EntityFramework.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\WebGrease.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Bootstrap.Pagination.pdb
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Bootstrap.Pagination.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\EntityFramework.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Helpers.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Mvc.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Optimization.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.Razor.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Antlr3.Runtime.pdb
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Newtonsoft.Json.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\bin\Microsoft.AI.Web.xml
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csprojAssemblyReference.cache
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.CoreCompileInputs.cache
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.CopyComplete
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.dll
+C:\Users\84949\Desktop\MVC_TinTucNhaDat\WebsiteMVC\WebsiteMVC\obj\Debug\WebsiteMVC.pdb
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\WebsiteMVC.dll.config
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\WebsiteMVC.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\WebsiteMVC.pdb
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Antlr3.Runtime.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Bootstrap.Pagination.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\EntityFramework.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\EntityFramework.SqlServer.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.Web.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.WindowsServer.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.ApplicationInsights.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.Web.Infrastructure.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Newtonsoft.Json.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Net.Http.Formatting.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Helpers.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Http.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Http.WebHost.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Mvc.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Optimization.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Razor.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.WebPages.Deployment.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.WebPages.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.WebPages.Razor.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\WebGrease.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Bootstrap.Pagination.pdb
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Bootstrap.Pagination.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\EntityFramework.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\EntityFramework.SqlServer.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Net.Http.Formatting.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Http.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Http.WebHost.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Helpers.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Mvc.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Optimization.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.Razor.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.WebPages.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.WebPages.Deployment.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\System.Web.WebPages.Razor.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Antlr3.Runtime.pdb
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Newtonsoft.Json.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.ApplicationInsights.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.WindowsServer.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\bin\Microsoft.AI.Web.xml
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.AssemblyReference.cache
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.CoreCompileInputs.cache
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\obj\Debug\WebsiteMVC.csproj.CopyComplete
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\obj\Debug\WebsiteMVC.dll
+K:\projects\C#\Web\TinTucNhaDat\WebsiteMVC\obj\Debug\WebsiteMVC.pdb
